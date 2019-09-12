@@ -1,0 +1,3 @@
+# reject-inference-lendingclub
+Reject Inference, to be specific, investigate the possibility of using statistical methods (extrapolation and NB) and supervised learning algorithms (LightGBM, xgboost, RF, LR, catboost) to build a benchmark model through the Ensemble Learning (Weighted Voting) to predict the default status of rejected samples and therefore obtain full sample data set. 
+One challenge of this research is proposing a new training sample selection process, which requires an effective mechanism for rejecting the sample inclusion ratio and multiple rounds of iterative verification based on AUC. 
